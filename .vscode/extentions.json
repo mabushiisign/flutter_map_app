@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    // Japanese Language Pack for VS Code
+    "ms-ceintl.vscode-language-pack-ja",
+    // Dart
+    "dart-code.dart-code",
+    // Flutter
+    "dart-code.flutter",
+    // Code Spell Checker
+    "streetsidesoftware.code-spell-checker",
+    // GitLens
+    "eamodio.gitlens"
+  ]
+}
